@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Systems deployment consultant
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Did you know that, me, Bart Simpson and Albert Einstein was the most famous left-handers in the world according to me 🤠😂
 
 <div align="center">
   <a href="https://github.com/Agnaldo-Jr">
