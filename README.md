@@ -11,15 +11,18 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Agnaldo-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Agnaldo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Agnaldo-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Agnaldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Agnaldo-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Agnaldo-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg">
   <img align="center" alt="Agnaldo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Agnaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Agnaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Agnaldo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Agnaldo-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Agnaldo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Agnaldo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-  <img align="right" alt="Agnaldo_pic" height="150" style="border-radius:50px;" src="https://instagram.fbnu2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/81228816_1394172714100858_998831207741390848_n.jpg?_nc_ht=instagram.fbnu2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=O8T9hNwzwqoAX-sAzok&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_SA2vYV0_BOJ_Dz-91pXeQoU7lueDlCtxly23GLXAA2Q&oe=61E402F0&_nc_sid=7bff83">
+  <img align="center" alt="Agnaldo-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  <img align="right" alt="Agnaldo_pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1BEk8YZyUXh5wftkL30fMdcc95ZhJxFjh/view">
 </div>
   
 ##
