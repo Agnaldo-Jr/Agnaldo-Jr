@@ -1,4 +1,4 @@
-## Olá! Eu sou o Agnaldo-Jr
+## Hi there, im Agnaldo-Jr
 - 🔭 I’m currently working on Systems deployment consultant
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
